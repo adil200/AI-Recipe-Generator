@@ -3,9 +3,9 @@
 
 Welcome to the AI Recipe Generator web app project! This repository contains the code for a Flask-based web application designed to generate recipes based on just a few starting words. Below is an in-depth overview of the project, including details about the code, algorithms used, and the model-saving process.
 ### INPUT
-![Screenshot 2024-01-30 at 2 50 16 PM](https://github.com/adil200/AI-Recipe-Generator/assets/75264739/e0042ff6-093c-488a-80b6-ec3977ecafba)
+![Screenshot 2024-01-30 at 4 29 04 PM](https://github.com/adil200/AI-Recipe-Generator/assets/75264739/d9678e96-84ad-4e00-b29f-02c6b2134eca)
 ### OUTPUT
-![Screenshot 2024-01-30 at 3 59 15 PM](https://github.com/adil200/AI-Recipe-Generator/assets/75264739/f935906b-557d-4c4f-84be-ecec641d2277)
+![Screenshot 2024-01-30 at 4 30 02 PM](https://github.com/adil200/AI-Recipe-Generator/assets/75264739/124b1a0e-3455-449c-8eb2-331a0f0bb784)
 
 ## Overview
 
